@@ -1,8 +1,10 @@
 
-
+![image](https://user-images.githubusercontent.com/66031190/114612334-a53f2e80-9cbf-11eb-8f94-cc874e46511f.png)
+)
 # Introduction
 
-This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
+This app will let you chat with your known ones. For it's features click on the fllowing link to get the live demonstration
+[Click on this](https://chat-sunny-app.netlify.app/
 
 
 # Getting Started with Create React App
