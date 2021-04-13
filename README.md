@@ -4,7 +4,7 @@
 # Introduction
 
 This app will let you chat with your known ones. For it's features click on the fllowing link to get the live demonstration
-[Click on this](https://chat-sunny-app.netlify.app/
+https://chat-sunny-app.netlify.app/
 
 
 # Getting Started with Create React App
