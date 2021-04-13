@@ -1,5 +1,8 @@
+[Screen Shot](https://camo.githubusercontent.com/1b3dc8939ac229215d8a2878202158c407ec1fcabad13ca416d8becc5ce35c44/68747470733a2f2f692e6962622e636f2f76446878384d642f57686174732d4170702d496d6167652d323032312d30312d32362d61742d30322d30312d34332e6a7067)
 
-(https://camo.githubusercontent.com/1b3dc8939ac229215d8a2878202158c407ec1fcabad13ca416d8becc5ce35c44/68747470733a2f2f692e6962622e636f2f76446878384d642f57686174732d4170702d496d6167652d323032312d30312d32362d61742d30322d30312d34332e6a7067)
+# Introduction
+
+This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
 
 
 # Getting Started with Create React App
